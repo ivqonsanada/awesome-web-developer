@@ -16,21 +16,21 @@
 # Assets/Art/Illustration Resource
 Free for Personal & Commercial Use.<br>
 Most of this use MIT License.
-- [lukaszadam.com](https://lukaszadam.com/illustrations)
-- [humaaans.com](https://www.humaaans.com/)
-- [undraw.co](https://undraw.co/illustrations)
-- [vecteezy.com](https://www.vecteezy.com/)
-- [opendoodles.com](https://www.opendoodles.com/)
-- [illlustrations.co](https://illlustrations.co/)
-- [iconscout.com](https://iconscout.com/paper-illustrations)
-- [retrovectors.com](http://retrovectors.com/category/free-vectors/)
-- [drawkit.io](https://www.drawkit.io)
-- [interfacer.xyz](https://interfacer.xyz/)
-- [vectorportal.com](https://www.vectorportal.com/)
-- [fresh-folk.com](https://fresh-folk.com)
-- [isometric.online](https://isometric.online/)
-- [karthiksrinivas.in](https://www.karthiksrinivas.in/)
-- [iradesign.io](https://iradesign.io/)
-- [absurd.design](https://absurd.design/)
-- [stubborn.fun](https://stubborn.fun/)
-- [mixkit.co](https://mixkit.co/free-stock-art/)
+- [lukaszadam.com](https://lukaszadam.com/illustrations) - Free SVG Illustrations
+- [humaaans.com](https://www.humaaans.com/) - Mix-&-match illustrations library
+- [undraw.co](https://undraw.co/illustrations) - Open source illustrations for any idea
+- [vecteezy.com](https://www.vecteezy.com/) - Download Free Vectors, Clipart Graphics, Vector Art & Design Templates
+- [opendoodles.com](https://www.opendoodles.com/) - Free sketchy illustrations
+- [illlustrations.co](https://illlustrations.co/) - Open source illustrations kit
+- [iconscout.com](https://iconscout.com/paper-illustrations) - Free Paper illustrations library
+- [retrovectors.com](http://retrovectors.com/category/free-vectors/) - Free Retro Vector
+- [drawkit.io](https://www.drawkit.io/free) - Beautiful free illustrations
+- [interfacer.xyz](https://interfacer.xyz/) - 300+ free design resources
+- [fresh-folk.com](https://fresh-folk.com) - An illustration library of people and objects
+- [isometric.online](https://isometric.online/) - Download free isometric illustrations
+- [karthiksrinivas.in](https://www.karthiksrinivas.in/illustrations) - Karthik Srinivas
+- [iradesign.io](https://iradesign.io/) - Build your own amazing illustrations
+- [absurd.design](https://absurd.design/) - Free Surrealist Illustrations and Vector Art
+- [stubborn.fun](https://stubborn.fun/) - Free Illustrations Generator
+- [mixkit.co](https://mixkit.co/free-stock-art/) - Free stock illustrations, Beautiful Free Art
+- [vectorportal.com](https://www.vectorportal.com/) - Download free vectors, clip art graphics, icons and images
