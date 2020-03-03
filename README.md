@@ -2,7 +2,10 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Assets/Art/Illustration Resource](#assetsartillustration-resource)
+- [Developer Roadmaps](#developer-roadmaps)
+- [Learning Resource](#learning-resource)
+- [Web Developer News](#web-developer-news)
+- [Assets/Arts/Illustrations Resource](#assetsartsillustrations-resource)
 - [Useful Online Tools](#useful-online-tools)
 - [Learn by Game](#learn-by-game)
 
@@ -15,7 +18,19 @@
 
 </div>
 
-# Assets/Art/Illustration Resource
+# Developer Roadmaps
+Step by step guide to becoming a modern:
+- [Frontend Developer](https://roadmap.sh/frontend)
+- [Backend Developer](https://roadmap.sh/backend) 
+
+# Learning Resource
+- [booklets.io](https://www.booklets.io/) - Bite sized learning for creatives. Learn concepts from some of the world’s best designers.
+- [internetingishard.com](https://internetingishard.com/) - Friendly web development tutorials for complete beginners
+
+# Web Developer News 
+- [frontendfoc.us](https://frontendfoc.us) - A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.
+
+# Assets/Arts/Illustrations Resource
 Free for Personal & Commercial Use.<br>
 Most of this use MIT-like license.
 - [lukaszadam.com](https://lukaszadam.com/illustrations) - Free SVG Illustrations
@@ -39,10 +54,13 @@ Most of this use MIT-like license.
 - [unsplash.com](https://unsplash.com/) - Beautiful Free Images & Pictures
 - [vectorportal.com](https://www.vectorportal.com/) - Download free vectors, clip art graphics, icons and images
 - [icons8.com](https://icons8.com/ouch) - Download the free illustrations from top Dribbble artists to class up your product.
+- [paaatterns](https://products.ls.graphics/paaatterns/) - Free Handcrafted patterns
+- [openpeeps.com](https://www.openpeeps.com/) - A hand-drawn illustration library.
 
 # Useful Online Tools
 - [caniuse.com](https://caniuse.com/) - Can I use... Support tables for HTML5, CSS3, etc (Something like browser compatibility tables)
 - [vecta.io](https://vecta.io/nano) - Compress SVG files
+- [remove.bg](https://www.remove.bg/) - Automatically remove image background
 
 # Learn by Game
 - [CSS Diner](https://flukeout.github.io/) - Learn CSS Selector
