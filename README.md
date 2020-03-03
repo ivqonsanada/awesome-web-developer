@@ -4,10 +4,10 @@
 
 - [Developer Roadmaps](#developer-roadmaps)
 - [Learning Resource](#learning-resource)
+- [Learn by Game](#learn-by-game)
 - [Web Developer News](#web-developer-news)
 - [Assets/Arts/Illustrations Resource](#assetsartsillustrations-resource)
 - [Useful Online Tools](#useful-online-tools)
-- [Learn by Game](#learn-by-game)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -27,7 +27,16 @@ Step by step guide to becoming a modern:
 - [booklets.io](https://www.booklets.io/) - Bite sized learning for creatives. Learn concepts from some of the world’s best designers.
 - [internetingishard.com](https://internetingishard.com/) - Friendly web development tutorials for complete beginners
 
-# Web Developer News 
+# Learn by Game
+- [CSS Diner](https://flukeout.github.io/) - Learn CSS Selector
+- [CSS Grid Garden](https://cssgridgarden.com/) - Learn CSS Grid
+- [Flexbox Froggy](https://flexboxfroggy.com/) - Learn CSS Flexbox
+- [Flexbox Zombie](https://mastery.games/p/flexbox-zombies) - Learn CSS Flexbox 
+- [Flexbox Defense](http://www.flexboxdefense.com/) - Learn CSS Flexbox by Playing Tower & Defense Game
+- [Service Workies](https://serviceworkies.com/) - Learn Service Worker for Progressive Web Apps (PWA)
+- [CSS Battle](https://cssbattle.dev/) - Try to use less/smallest code to replicate an Illustration
+
+# Web Developer News
 - [frontendfoc.us](https://frontendfoc.us) - A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.
 
 # Assets/Arts/Illustrations Resource
@@ -61,12 +70,3 @@ Most of this use MIT-like license.
 - [caniuse.com](https://caniuse.com/) - Can I use... Support tables for HTML5, CSS3, etc (Something like browser compatibility tables)
 - [vecta.io](https://vecta.io/nano) - Compress SVG files
 - [remove.bg](https://www.remove.bg/) - Automatically remove image background
-
-# Learn by Game
-- [CSS Diner](https://flukeout.github.io/) - Learn CSS Selector
-- [CSS Grid Garden](https://cssgridgarden.com/) - Learn CSS Grid
-- [Flexbox Froggy](https://flexboxfroggy.com/) - Learn CSS Flexbox
-- [Flexbox Zombie](https://mastery.games/p/flexbox-zombies) - Learn CSS Flexbox 
-- [Flexbox Defense](http://www.flexboxdefense.com/) - Learn CSS Flexbox by Playing Tower & Defense Game
-- [Service Workies](https://serviceworkies.com/) - Learn Service Worker for Progressive Web Apps (PWA)
-- [CSS Battle](https://cssbattle.dev/) - Try to use less/smallest code to replicate an Illustration
