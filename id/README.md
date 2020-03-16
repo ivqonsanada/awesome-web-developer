@@ -4,8 +4,8 @@
 **Table of Contents** _generated with [DocToc](https://github.com/thlorenz/doctoc)_
 
 - [Developer Roadmaps](#developer-roadmaps)
-- [Learning Resource](#learning-resource)
-- [Learn by Game](#learn-by-game)
+- [Sumber Belajar](#sumber-belajar)
+- [Belajar dari Game](#belajar-dari-game)
 - [Web Developer News](#web-developer-news)
 - [Assets/Arts/Illustrations Resource](#assetsartsillustrations-resource)
 - [Useful Online Tools](#useful-online-tools)
@@ -22,17 +22,17 @@
 
 # Developer Roadmaps
 
-Step by step guide to becoming a modern:
+Langkah demi langkah menuju developer masa kini:
 
 - [Frontend Developer](https://roadmap.sh/frontend)
 - [Backend Developer](https://roadmap.sh/backend)
 
-# Learning Resource
+# Sumber Belajar
 
 - [booklets.io](https://www.booklets.io/) - Bite sized learning for creatives. Learn concepts from some of the world’s best designers.
 - [internetingishard.com](https://internetingishard.com/) - Friendly web development tutorials for complete beginners
 
-# Learn by Game
+# Belajar dari Game
 
 - [CSS Diner](https://flukeout.github.io/) - Learn CSS Selector
 - [CSS Grid Garden](https://cssgridgarden.com/) - Learn CSS Grid
@@ -41,7 +41,6 @@ Step by step guide to becoming a modern:
 - [Flexbox Defense](http://www.flexboxdefense.com/) - Learn CSS Flexbox by Playing Tower & Defense Game
 - [Service Workies](https://serviceworkies.com/) - Learn Service Worker for Progressive Web Apps (PWA)
 - [CSS Battle](https://cssbattle.dev/) - Try to use less/smallest code to replicate an Illustration
-- [CodeCombat](https://codecombat.com/)Learn typed code through a programming game. Learn Python, JavaScript, and HTML as you solve puzzles and learn to make your own coding games and websites.
 
 # Web Developer News
 
