@@ -82,6 +82,7 @@ Most of this use MIT-like license.
 - [vecta.io](https://vecta.io/nano) - Compress SVG files
 - [remove.bg](https://www.remove.bg/) - Automatically remove image background
 - [purifycss.online](https://purifycss.online/) - Remove unused CSS code from your stylesheets
+- [Beeceptor](https://beeceptor.com/) - Mock APIs, simulate responses, and inspect HTTP requests.
 
 # Another Awesome List
 
